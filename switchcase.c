@@ -1,3 +1,11 @@
+/*********************************************************
+* File : switchcase.c
+* Author : Indriani A.M
+* Date : 06/01/2025
+* Description : learn switch case
+/*********************************************************
+
+
 #include <stdio.h>
 
 int main(){
